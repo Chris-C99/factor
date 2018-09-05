@@ -19,7 +19,6 @@
 
 
 */
-
 fn main(){
 
     println!("{:?}", factor_include(144));
