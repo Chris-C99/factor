@@ -9,12 +9,12 @@ Factor
 
 #Examples::
 
-```toml
+```
 -println!("{:?}", factor(144));
     -Prints [2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 36, 48, 72]
 ```
 
-```toml
+```
 -println!("{:?}", factor_include(144));
     -Prints [1, 2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 36, 48, 72, 144]
 ```
