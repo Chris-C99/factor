@@ -20,8 +20,6 @@
 
 */
 
-
-
 fn main(){
 
     println!("{:?}", factor_include(144));
@@ -29,7 +27,7 @@ fn main(){
 }
 pub fn factor(input :i64) -> Vec<i64>{
 
-    let mut count = 2;
+    let count = 2;
 
     let mut vector = vec![];
 
@@ -45,7 +43,7 @@ pub fn factor(input :i64) -> Vec<i64>{
 
 pub fn factor_include(input :i64) -> Vec<i64>{
 
-    let mut count = 1;
+    let count = 1;
 
     let mut vector = vec![];
 

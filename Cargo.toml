@@ -2,8 +2,13 @@
 name = "factor"
 version = "0.1.0"
 authors = ["Race_Condition"]
-license = "MIT"
+
 description = "Find the factors for any integer."
+repository = "https://github.com/RogueWorm/factor"
+readme="README.md"
+license = "MIT/Apache-2.0"
+
+
 
 
 
