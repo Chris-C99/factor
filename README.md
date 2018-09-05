@@ -16,7 +16,7 @@ Factor
 
 ```
 -println!("{:?}", factor_include(144));
-    Prints[1, 2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 36, 48, 72, 144]
+    -Prints [1, 2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 36, 48, 72, 144]
 ```
 
 ***Note : Factors are returned in a vector.
