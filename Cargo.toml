@@ -1,6 +1,6 @@
 [package]
 name = "factor"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Race_Condition"]
 
 description = "Find the factors for any integer."
